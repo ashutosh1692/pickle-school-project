@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff3c9"/><stop offset="1" stop-color="#e7d49a"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-opacity=".2"/></filter></defs>
+<rect width="700" height="500" fill="url(#bg)"/><circle cx="100" cy="90" r="70" fill="#fff" opacity=".28"/><circle cx="610" cy="390" r="110" fill="#fff" opacity=".2"/>
+<g filter="url(#s)"><ellipse cx="350" cy="405" rx="155" ry="28" fill="#70532f" opacity=".22"/>
+<path d="M220 165 Q350 125 480 165 L455 382 Q350 430 245 382Z" fill="#c98b18"/>
+<ellipse cx="350" cy="165" rx="130" ry="38" fill="#f1bd3f"/><ellipse cx="350" cy="157" rx="110" ry="24" fill="#6d4524"/>
+<path d="M250 115 Q350 80 450 115" fill="none" stroke="#e4c67c" stroke-width="16" stroke-linecap="round"/></g>
+<text x="350" y="285" text-anchor="middle" font-family="Arial" font-size="72">🍋</text>
+<text x="350" y="470" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#183f2a">Lemon Pickle</text>
+</svg>
